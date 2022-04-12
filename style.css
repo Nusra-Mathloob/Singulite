@@ -1,0 +1,116 @@
+.cb-header-1-2 {
+}
+
+#cb-header-1-2 .text-center {
+    font-family: Roboto;
+    width: 80%;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+.container h4.title {
+    text-transform: uppercase;
+    margin-top: 0;
+    font-family: Lora;
+}
+
+.align-items-start h3 {
+    font-weight: bold;
+}
+
+.align-items-start h3::after {
+    content: "";
+    display: block;
+    width: 40px;
+    height: 2px;
+    background-color: #124f85;
+    margin: ;
+    margin-top: 10px;
+}
+
+.align-items-start p b {
+    font-family: Roboto;
+    font-size: 15px;
+    color: #2e2e2e;
+}
+
+.pg-ia-no-preview {
+    padding-bottom: 1.25em;
+    padding-top: 1.25em;
+}
+
+.pg-ia-no-preview i {
+}
+
+.cb-subscribe1 h2 {
+    font-family: Lora;
+}
+
+.cb-team2 h3 {
+    font-family: Lora;
+    padding-bottom: 1em;
+}
+
+.cb-team2 h3::after {
+    content: "";
+    display: block;
+    width: 40px;
+    height: 2px;
+    background-color: #124f85;
+    margin: 0 auto;
+    margin-top: 10px;
+}
+
+header .navbar {
+    justify-content: center;
+}
+
+.cb-header2 .container.d-flex {
+    width: 85%;
+    display: block;
+    margin-bottom: 0;
+    padding-bottom: 0;
+}
+
+.cb-header2 h3 {
+    font-family: Lora;
+    font-weight: 600;
+}
+
+.left {
+}
+
+@media (max-width:575px) {
+    .cb-intro2 .left img {
+        width: 270px;
+    }
+}
+
+@media (max-width:575px) {
+    .cb-header2 .container .hero {
+        margin-top: 1em;
+    }
+}
+
+header {
+}
+
+header .cb-navigation-1-1 {
+}
+
+header {
+    background-image: url('imgages/bg.jpg');
+    background-repeat: no-repeat;
+    background-position: center center;
+    background-size: cover;
+    background-attachment: scroll;
+}
+
+.cb-header2 .hero {
+    margin-top: 8em;
+}
+
+.cb-intro2 .left img {
+    position: relative;
+    padding-top: 3em;
+}
